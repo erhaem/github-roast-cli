@@ -64,3 +64,7 @@ bun run index.js --lang javanese
 ## Credits
 
 This project is highly inspired by Bagus Indrayana's <a href="https://github.com/bagusindrayana/roastgithub">roastgithub</a>
+
+## License
+
+This project is under <a href="/LICENSE">MIT License</a>
