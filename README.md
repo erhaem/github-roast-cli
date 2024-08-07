@@ -6,6 +6,14 @@ Roast your Github profile in command-line (CLI)
 
 ## Usage
 
+### Clone this repo
+
+First off, clone this repo to your machine
+
+```
+git clone https://github.com/erhaem/github-roast-cli
+```
+
 ### Credentials
 
 You need to set your <a href="https://github.com/settings/tokens">Github Access Token</a>, and <a href="https://aistudio.google.com/app/apikey">Gemini API Key</a> at `.env` file - simply rename `.env.example` to `.env`
@@ -31,7 +39,7 @@ bun install
 
 ### To run
 
-Node JS
+NodeJS
 
 ```
 node --env-file=.env index.js
