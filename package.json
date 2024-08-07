@@ -1,0 +1,18 @@
+{
+  "name": "github-roast-cli",
+  "version": "1.0.0",
+  "description": "Roast your Github profile in CLI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --env-file=.env index.js"
+  },
+  "author": "erhaem",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.16.0",
+    "ansis": "^3.3.2",
+    "openai": "^4.54.0"
+  }
+}
