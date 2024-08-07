@@ -2,7 +2,7 @@
 
 Roast your Github profile in command-line (CLI)
 
-<img src="img/example-usage.JPG"/>
+<img src="img/example-usage.webp"/>
 
 ## Usage
 
